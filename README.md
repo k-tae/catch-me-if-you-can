@@ -18,7 +18,7 @@
 ## Clone code
 
 ```shell
-git clone [https://github.com/k-tae/catch-me-if-you-can.git]
+git clone https://github.com/k-tae/catch-me-if-you-can.git
 ```
 
 ## Prerequite
